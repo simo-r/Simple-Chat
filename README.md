@@ -1,2 +1,2 @@
-# Simple-Client-Server-Chat
-Developed for a university exam following its specifications.
+# Simple-Chat
+Client-Server chat developed for a university exam following its specifications.
